@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N110 Brug af DateTime", "N1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N115 Typekonvertering", "N115 Typekonvertering\N115 Typekonvertering.csproj", "{C156F521-7BF3-4B01-809F-18073F4D5298}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N120 Brug af strenge", "N120 Brug af strenge\N120 Brug af strenge.csproj", "{1C80BE00-2F65-439E-8C61-02AC689C399B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C156F521-7BF3-4B01-809F-18073F4D5298}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C156F521-7BF3-4B01-809F-18073F4D5298}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C156F521-7BF3-4B01-809F-18073F4D5298}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C80BE00-2F65-439E-8C61-02AC689C399B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C80BE00-2F65-439E-8C61-02AC689C399B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C80BE00-2F65-439E-8C61-02AC689C399B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C80BE00-2F65-439E-8C61-02AC689C399B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
