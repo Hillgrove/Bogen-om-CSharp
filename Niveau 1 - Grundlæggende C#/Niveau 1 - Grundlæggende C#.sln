@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N135 Flow (break og continu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N140 Simple metoder", "N140 Simple metoder\N140 Simple metoder.csproj", "{FC46E26A-449B-4F52-A42A-26E08ED64D79}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N150 Statiske metoder", "N150 Statiske metoder\N150 Statiske metoder.csproj", "{7782477B-45D5-4AA5-928D-76C2764F9004}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{FC46E26A-449B-4F52-A42A-26E08ED64D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC46E26A-449B-4F52-A42A-26E08ED64D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC46E26A-449B-4F52-A42A-26E08ED64D79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7782477B-45D5-4AA5-928D-76C2764F9004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7782477B-45D5-4AA5-928D-76C2764F9004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7782477B-45D5-4AA5-928D-76C2764F9004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7782477B-45D5-4AA5-928D-76C2764F9004}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
