@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N122 Enum(s) til kortspil",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N125 Flow (for and if)", "N125 Flow (for and if)\N125 Flow (for and if).csproj", "{1D0672CC-A544-4EF3-AC69-A93CEEF1FFB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N130 10-tabel", "N130 10-tabel\N130 10-tabel.csproj", "{EBE4DF42-F77F-4EEC-83F8-713F451D3528}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N130 10-tabel", "N130 10-tabel\N130 10-tabel.csproj", "{EBE4DF42-F77F-4EEC-83F8-713F451D3528}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N135 Flow (break og continue)", "N135 Flow (break og continue)\N135 Flow (break og continue).csproj", "{BD16176D-E1D9-498A-94ED-37FA75567D53}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{EBE4DF42-F77F-4EEC-83F8-713F451D3528}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBE4DF42-F77F-4EEC-83F8-713F451D3528}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBE4DF42-F77F-4EEC-83F8-713F451D3528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD16176D-E1D9-498A-94ED-37FA75567D53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD16176D-E1D9-498A-94ED-37FA75567D53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD16176D-E1D9-498A-94ED-37FA75567D53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD16176D-E1D9-498A-94ED-37FA75567D53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
