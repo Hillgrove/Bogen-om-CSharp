@@ -27,9 +27,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N155 Gæt et tal (iterativ 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N157 Gæt et tal (procedural version)", "N157 Gæt et tal (procedural version)\N157 Gæt et tal (procedural version).csproj", "{D8782927-58FA-4FBA-8B34-260C28AC04E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N160 Overload", "N160 Overload\N160 Overload.csproj", "{CB1C4FBB-A30C-4E1F-9978-5D565676621C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N160 Overload", "N160 Overload\N160 Overload.csproj", "{CB1C4FBB-A30C-4E1F-9978-5D565676621C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N165 NuGet", "N165 NuGet\N165 NuGet.csproj", "{6A355D7C-4831-459A-94F4-D65CB9438435}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N165 NuGet", "N165 NuGet\N165 NuGet.csproj", "{6A355D7C-4831-459A-94F4-D65CB9438435}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N170 Simple fejlhåndtering", "N170 Simple fejlhåndtering\N170 Simple fejlhåndtering.csproj", "{1A7B9DE3-95BB-485C-8985-F3A0E2CAD726}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N172 Egne Exceptions(1)", "N172 Egne Exceptions(1)\N172 Egne Exceptions(1).csproj", "{52910C74-2D6F-4331-BFDA-26971310265A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +97,14 @@ Global
 		{6A355D7C-4831-459A-94F4-D65CB9438435}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A355D7C-4831-459A-94F4-D65CB9438435}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A355D7C-4831-459A-94F4-D65CB9438435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A7B9DE3-95BB-485C-8985-F3A0E2CAD726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A7B9DE3-95BB-485C-8985-F3A0E2CAD726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A7B9DE3-95BB-485C-8985-F3A0E2CAD726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A7B9DE3-95BB-485C-8985-F3A0E2CAD726}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52910C74-2D6F-4331-BFDA-26971310265A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52910C74-2D6F-4331-BFDA-26971310265A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52910C74-2D6F-4331-BFDA-26971310265A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52910C74-2D6F-4331-BFDA-26971310265A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
