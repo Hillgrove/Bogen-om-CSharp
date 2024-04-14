@@ -3,7 +3,7 @@ static string SmartToUpper(string text)
 {
     if (text == null)
     {
-        throw new ArgumentNullException("Tekst må ikke være null");
+        throw new ArgumentException("Tekst må ikke være null");
     }
 
     if (text.Length == 0)
