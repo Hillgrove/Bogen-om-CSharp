@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N170 Simple fejlhåndtering
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N172 Egne Exceptions(1)", "N172 Egne Exceptions(1)\N172 Egne Exceptions(1).csproj", "{52910C74-2D6F-4331-BFDA-26971310265A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N174 Egne exceptions (2)", "N174 Egne exceptions (2)\N174 Egne exceptions (2).csproj", "{50EB3470-376A-4856-8530-E323C07FC2AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N174 Egne exceptions (2)", "N174 Egne exceptions (2)\N174 Egne exceptions (2).csproj", "{50EB3470-376A-4856-8530-E323C07FC2AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N175 Gæt et tal (fejlhåndtering)", "N175 Gæt et tal (fejlhåndtering)\N175 Gæt et tal (fejlhåndtering).csproj", "{EEC77696-D168-4A77-B5AF-141C5DCF119E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{50EB3470-376A-4856-8530-E323C07FC2AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50EB3470-376A-4856-8530-E323C07FC2AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50EB3470-376A-4856-8530-E323C07FC2AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEC77696-D168-4A77-B5AF-141C5DCF119E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC77696-D168-4A77-B5AF-141C5DCF119E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC77696-D168-4A77-B5AF-141C5DCF119E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC77696-D168-4A77-B5AF-141C5DCF119E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
