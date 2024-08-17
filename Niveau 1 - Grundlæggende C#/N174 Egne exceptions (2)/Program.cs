@@ -1,8 +1,9 @@
 ﻿
 // Setting up variables
-string baseDirectory = AppDomain.CurrentDomain.BaseDirectory;
+string baseDirectory = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"..\..\..");
+string fullBaseDirectory = Path.GetFullPath(baseDirectory);
 string file = "numbers.txt";
-string filePath = Path.Combine(baseDirectory, file);
+string filePath = Path.Combine(fullBaseDirectory, file);
 string fileContent;
 
 // Opening file
