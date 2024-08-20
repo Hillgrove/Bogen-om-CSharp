@@ -1,15 +1,4 @@
 ﻿
-//Opret en ny tom .NET Core konsol-applikation og definer og opret et array med to dimensioner med følgende indhold:
-
-//id navn
-//“1”	“navn1”
-//“2”	“navn2”
-//“3”	“navn3”
-//“4”	“navn4”
-//Arrayet skal altså være et 4x2 array (4 rækker - 2 kolonner).
-
-using System.Data;
-
 string[,] names = new string[4, 2];
 
 names[0, 0] = "1";
@@ -51,5 +40,5 @@ static void PrintArray(string[,] array)
 
 
 PrintArray(names);
-string name = FindName(names, "2");
-Console.WriteLine($"The name at index 2: {name}");
+string name = FindName(names, "8");
+Console.WriteLine($"The name at index 8: {name}");
