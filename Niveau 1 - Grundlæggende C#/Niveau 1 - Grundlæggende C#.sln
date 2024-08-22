@@ -51,6 +51,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N185 Samlinger (Simpel)", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N186 Samlinger (HashSet)", "N186 Samlinger (HashSet)\N186 Samlinger (HashSet).csproj", "{6B381E70-8C62-4CAC-AEE1-A57233ED0A55}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N187 Summering - Temperaturgennemsnit", "N187 Summering - Temperaturgennemsnit\N187 Summering - Temperaturgennemsnit.csproj", "{AA574A5A-7097-453C-A43A-71700FE9269A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{6B381E70-8C62-4CAC-AEE1-A57233ED0A55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B381E70-8C62-4CAC-AEE1-A57233ED0A55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B381E70-8C62-4CAC-AEE1-A57233ED0A55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA574A5A-7097-453C-A43A-71700FE9269A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA574A5A-7097-453C-A43A-71700FE9269A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA574A5A-7097-453C-A43A-71700FE9269A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA574A5A-7097-453C-A43A-71700FE9269A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
