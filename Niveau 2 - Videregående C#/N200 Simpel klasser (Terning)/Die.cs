@@ -23,6 +23,5 @@ public class Die
         Random rand = new Random();
         faceValue = rand.Next(1, 7);
     }
-
 }
 
