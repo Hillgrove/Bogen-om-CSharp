@@ -5,7 +5,9 @@ VisualStudioVersion = 17.10.35201.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N200 Simpel klasser (Terning)", "N200 Simpel klasser (Terning)\N200 Simpel klasser (Terning).csproj", "{1B8F4EDD-D144-473B-960A-D11A14C80566}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N205 Simpel klasse (Person)", "N205 Simpel klasse (Person)\N205 Simpel klasse (Person).csproj", "{40981373-FA76-4495-A4A2-991877E73E31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N205 Simpel klasse (Person)", "N205 Simpel klasse (Person)\N205 Simpel klasse (Person).csproj", "{40981373-FA76-4495-A4A2-991877E73E31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N201 Gæt et tal (simpel objektorienteret version)", "N201 Gæt et tal (simpel objektorienteret version)\N201 Gæt et tal (simpel objektorienteret version).csproj", "{3E0883DE-39B5-4E67-8DCD-881A993874DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{40981373-FA76-4495-A4A2-991877E73E31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40981373-FA76-4495-A4A2-991877E73E31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40981373-FA76-4495-A4A2-991877E73E31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E0883DE-39B5-4E67-8DCD-881A993874DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E0883DE-39B5-4E67-8DCD-881A993874DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E0883DE-39B5-4E67-8DCD-881A993874DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E0883DE-39B5-4E67-8DCD-881A993874DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
