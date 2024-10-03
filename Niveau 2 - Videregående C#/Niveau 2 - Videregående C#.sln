@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N205 Simpel klasse (Person)
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N201 Gæt et tal (simpel objektorienteret version)", "N201 Gæt et tal (simpel objektorienteret version)\N201 Gæt et tal (simpel objektorienteret version).csproj", "{3E0883DE-39B5-4E67-8DCD-881A993874DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N203 Leg med klasser", "N203 Leg med klasser\N203 Leg med klasser.csproj", "{DA548F54-89E0-465F-90BD-8C6589BEE769}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N203 Leg med klasser", "N203 Leg med klasser\N203 Leg med klasser.csproj", "{DA548F54-89E0-465F-90BD-8C6589BEE769}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N207 Simpel klasse (Yatzy bæger)", "N207 Simpel klasse (Yatzy bæger)\N207 Simpel klasse (Yatzy bæger).csproj", "{A7DF099A-D00B-420D-A555-F38662A8C798}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{DA548F54-89E0-465F-90BD-8C6589BEE769}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA548F54-89E0-465F-90BD-8C6589BEE769}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA548F54-89E0-465F-90BD-8C6589BEE769}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7DF099A-D00B-420D-A555-F38662A8C798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7DF099A-D00B-420D-A555-F38662A8C798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7DF099A-D00B-420D-A555-F38662A8C798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7DF099A-D00B-420D-A555-F38662A8C798}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
