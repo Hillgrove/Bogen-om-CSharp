@@ -26,6 +26,18 @@ class Vare
         set { Console.WriteLine($"Pris ændret til {value}"); _pris = value; }
     }
 
+    public Vare()
+    {
+        _navn = "Ukendt";
+        _pris = 0;
+    }
+
+    public Vare(string navn, double pris)
+    {
+        _navn = navn;
+        _pris = pris;
+    }
+
     public double PrisMedMoms()
     {
         return _pris * 1.25;
