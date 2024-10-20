@@ -17,7 +17,7 @@
         public string Navn
         {
             get { return navn; }
-            set { Navn = value; }
+            set { navn = value; }
         }
     }
 }
