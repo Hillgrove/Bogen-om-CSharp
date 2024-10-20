@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N218 Hukommelsesteori 2", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N220 Fuld egenskab (Vare)", "N220 Fuld egenskab (Vare)\N220 Fuld egenskab (Vare).csproj", "{41C3E49A-CA52-41D3-9F7E-A31789390FE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N225 Fuld egenskab (Terning)", "N225 Fuld egenskab (Terning)\N225 Fuld egenskab (Terning).csproj", "{81C171C5-ADD2-4B8E-AE69-C39C3AB2EE55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N225 Fuld egenskab (Terning)", "N225 Fuld egenskab (Terning)\N225 Fuld egenskab (Terning).csproj", "{81C171C5-ADD2-4B8E-AE69-C39C3AB2EE55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N227 Fuld egenskab (fejl)", "N227 Fuld egenskab (fejl)\N227 Fuld egenskab (fejl).csproj", "{E774337B-5DDD-49D6-AD9E-92F4FD0D48D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{81C171C5-ADD2-4B8E-AE69-C39C3AB2EE55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81C171C5-ADD2-4B8E-AE69-C39C3AB2EE55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81C171C5-ADD2-4B8E-AE69-C39C3AB2EE55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E774337B-5DDD-49D6-AD9E-92F4FD0D48D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E774337B-5DDD-49D6-AD9E-92F4FD0D48D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E774337B-5DDD-49D6-AD9E-92F4FD0D48D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E774337B-5DDD-49D6-AD9E-92F4FD0D48D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
