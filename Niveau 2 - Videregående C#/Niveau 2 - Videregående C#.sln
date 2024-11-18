@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N227 Fuld egenskab (fejl)",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N230 Auto egenskab (Person)", "N230 Auto egenskab (Person)\N230 Auto egenskab (Person).csproj", "{824D53D3-C09E-4C5C-BD81-BE08F6A2F7BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N235 Auto egenskab (Terning)", "N235 Auto egenskab (Terning)\N235 Auto egenskab (Terning).csproj", "{E5731FA2-B28D-48AC-8F5B-3453D14455E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N235 Auto egenskab (Terning)", "N235 Auto egenskab (Terning)\N235 Auto egenskab (Terning).csproj", "{E5731FA2-B28D-48AC-8F5B-3453D14455E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N237 Auto egenskab (get metode)", "N237 Auto egenskab (get metode)\N237 Auto egenskab (get metode).csproj", "{FB3676E2-0C6D-4B3C-81DA-0AE3BAB5D8A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{E5731FA2-B28D-48AC-8F5B-3453D14455E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5731FA2-B28D-48AC-8F5B-3453D14455E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5731FA2-B28D-48AC-8F5B-3453D14455E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB3676E2-0C6D-4B3C-81DA-0AE3BAB5D8A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB3676E2-0C6D-4B3C-81DA-0AE3BAB5D8A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB3676E2-0C6D-4B3C-81DA-0AE3BAB5D8A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB3676E2-0C6D-4B3C-81DA-0AE3BAB5D8A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
