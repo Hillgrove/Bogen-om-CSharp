@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N230 Auto egenskab (Person)
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N235 Auto egenskab (Terning)", "N235 Auto egenskab (Terning)\N235 Auto egenskab (Terning).csproj", "{E5731FA2-B28D-48AC-8F5B-3453D14455E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N237 Auto egenskab (get metode)", "N237 Auto egenskab (get metode)\N237 Auto egenskab (get metode).csproj", "{FB3676E2-0C6D-4B3C-81DA-0AE3BAB5D8A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N237 Auto egenskab (get metode)", "N237 Auto egenskab (get metode)\N237 Auto egenskab (get metode).csproj", "{FB3676E2-0C6D-4B3C-81DA-0AE3BAB5D8A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N238 Simple JSON Serialisering og Deserialisering", "N238 Simple JSON Serialisering og Deserialisering\N238 Simple JSON Serialisering og Deserialisering.csproj", "{63F86B1A-5C3D-4B8B-900A-B3CA804F2388}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{FB3676E2-0C6D-4B3C-81DA-0AE3BAB5D8A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB3676E2-0C6D-4B3C-81DA-0AE3BAB5D8A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB3676E2-0C6D-4B3C-81DA-0AE3BAB5D8A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63F86B1A-5C3D-4B8B-900A-B3CA804F2388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F86B1A-5C3D-4B8B-900A-B3CA804F2388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F86B1A-5C3D-4B8B-900A-B3CA804F2388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F86B1A-5C3D-4B8B-900A-B3CA804F2388}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
